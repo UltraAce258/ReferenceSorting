@@ -4,14 +4,10 @@
 
   本人第一次写行研报告，用了非常个性化且不够规范的参考文献格式，形如：
   """  
-  正文：  
-  ...  
-  世界PC市场稳中向好（jan2d）  
-  ...  
+  正文：   
+  世界PC市场稳中向好（jan2d）
   参考文献：  
-  ...  
   jan25d - Canalys. Global PC shipments grew 3.9% to 256 million in 2024. https://www.canalys.com/newsroom/global-pc-shipments-q4-2024  
-  ...  
   """
   
   其中，jan是月份，25是年份，d是同年同月文献的顺序编号。这种参考文献格式在正文中被放在中文括号"（）"中标注引用，可以想象是十分惨不忍睹的画面。
